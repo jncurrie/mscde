@@ -1,5 +1,6 @@
-# mscde
-# Visual Essay for MScDE
+# What has openness done to change digital education? 
+# Visual Essay for IDEL April 2022
+# Jacqueline Currie
 
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
@@ -17,7 +18,7 @@
 <param ve-entity eid="Q221092"> <!-- Mauritshuis -->
 <param ve-entity eid="Q36600"> <!-- The Hague -->
 
-# Sample visual essay
+# What is 'openness' in digital education?
 
 This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
 <param ve-image 
