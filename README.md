@@ -3,7 +3,7 @@
 <param ve-config 
        title="What has openness done to change digital education?"
        author="Jacqueline Currie"
-       banner="https://s3hub-16a9288f4971fa631f9d7a562ffdc0b7ad664dd52e0b96944ef1c952b.s3.amazonaws.com/UN+Article+26.png" 
+       banner="https://s3hub-16a9288f4971fa631f9d7a562ffdc0b7ad664dd52e0b96944ef1c952b.s3.amazonaws.com/Openness.png" 
        layout="vertical">
 
 ## Introduction
@@ -112,6 +112,13 @@ Ross and Collier (2016) use the term "not-yetness" (p.19)[^27] to describe a sta
 ## Conclusion
 
 This essay offered a perspective on how openness has changed digital education, particularly the development of MOOCS, by considering four different interpretations of ‘open’. This approach certainly has limitations, including a focus on MOOCs over other forms of OER, and cultural biases in the analogies used. However, I hope that the explorations still provide a useful illumination of the tension between ideals and realities. The idea of ‘open doors’ was used to illustrate MOOC providers’ attempts to widen participation in education, but which create yet more closures. The perceived transparency of an ‘open kitchen’ restaurant was depicted to show how certain pedagogies are privileged by MOOCs, while other aspects of educational work remain concealed. The nature of the ‘open seas’ was used to illuminate both the possibilities of MOOCs, such as micro-credentials, along with vulnerabilities arising from their use of big data. Finally, the concept of an ‘open question’ was used to highlight the benefits of embracing complexity and uncertainty, rather than relying on ‘techsolutionism’. We can be open-minded and curious, as well as cautious, about the future possibilities of openness and digital education.
+
+<param ve-image 
+       label="We can be open-minded and curious, as well as cautious, about the future possibilities of openness and digital education."
+       attribution="opensourceway via flickr.com"
+       license="public domain"
+       fit="cover"
+       url="https://s3hub-16a9288f4971fa631f9d7a562ffdc0b7ad664dd52e0b96944ef1c952b.s3.amazonaws.com/question-mark-gf5cd61e42_1920.jpg">
 
 
 ## Note
