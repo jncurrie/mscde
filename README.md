@@ -68,7 +68,7 @@ The consumerisation of education leads me to explore this shift using the analog
 <param ve-image 
        label="MOOCs depend heavily on audiovisual content including video lecture presentations."
        attribution="Screenshot from coursera.org"
-       fit="cover"
+       fit="scale"
        url="https://s3hub-16a9288f4971fa631f9d7a562ffdc0b7ad664dd52e0b96944ef1c952b.s3.amazonaws.com/Coursera+Lecture.png">
 
 In an open kitchen restaurant, the customer may only passively observe the chef cooking and cannot question their process, and likewise MOOCs generally do not allow for interaction between teachers and students, with the teacher positioned as an ‘unchallengeable’ authority figure. Also, in the same way that placing focus on the chef’s actions may lead customers to interact less with their fellow diners, an instructivist style of teaching discourages MOOC from learning with or from their fellow participants. It also leads to the de-emphasis or elimination of other teacher capabilities, including facilitating discussions, helping students “turn content into knowledge” by applying information to their individual contexts (Cottom, 2015, 20:27)[^9], and pastoral care. This individual-centred approach has led to concerns regarding the “implicit de-professionalisation of teaching” along with “problematic forms of student isolation” (Bayne et al, 2015, p.248)[^11] which contribute to the low completion rates of MOOCs (Hone and El Said 2016)[^14].
@@ -117,7 +117,7 @@ This essay offered a perspective on how openness has changed digital education, 
        label="We can be open-minded and curious, as well as cautious, about the future possibilities of openness and digital education."
        attribution="opensourceway via flickr.com"
        license="public domain"
-       fit="cover"
+       fit="scale"
        url="https://s3hub-16a9288f4971fa631f9d7a562ffdc0b7ad664dd52e0b96944ef1c952b.s3.amazonaws.com/Open+2.jpg">
 
 
