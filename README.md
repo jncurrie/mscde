@@ -72,7 +72,7 @@ This essay offered a perspective on how openness has changed digital education, 
 
 ## Note
 
-This visual essay was created using [Juncture by JSTOR Labs] (https://juncture-digital.org/)
+This visual essay was created using [Juncture by JSTOR Labs](https://juncture-digital.org/)
 
 ## References
 
