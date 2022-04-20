@@ -12,11 +12,11 @@ When discussing how openness has changed digital education, we must first consid
 
 <param ve-image 
        label="Tweet by David Wiley, Founder of opencontent.org"
-       attribution="screenshot via twitter.com"
+       attribution="Screenshot from twitter.com"
        fit="scale"
        url="https://s3hub-16a9288f4971fa631f9d7a562ffdc0b7ad664dd52e0b96944ef1c952b.s3.amazonaws.com/Wiley+Tweet.png">
        
-In this essay, I use four ‘openness’ analogies to help illuminate the changes and challenges it has brought to digital education, with a particular focus on Massive Online Open Courses (MOOCs). In the first section, using the imagery of ‘open doors’, I investigate the promise of increased access to education and how it has in fact led to other closures. In the second section, I use the analogy of an ‘open kitchen’ restaurant to consider how certain facets of teaching and learning are privileged by MOOCs and others are concealed. In the third section, the concept of the ‘open seas’ is employed to explore both the possibilities and vulnerabilities of educational technologies. In a fourth and final section, I suggest that the complexities of openness in digital education may best be represented by the notion of curiously exploring an ‘open question’, encouraging a positive view regarding the issue’s inherent uncertainties.
+In this essay, I use four 'open' analogies to help illuminate the changes and challenges openness has brought to digital education, with a particular focus on Massive Online Open Courses (MOOCs). In the first section, using the imagery of ‘open doors’, I investigate the promise of increased access to education and how it has in fact led to other closures. In the second section, I use the analogy of an ‘open kitchen’ restaurant to consider how certain facets of teaching and learning are privileged by MOOCs and others are concealed. In the third section, the concept of the ‘open seas’ is employed to explore both the possibilities and vulnerabilities of educational technologies. In a fourth and final section, I suggest that the complexities of openness in digital education may best be represented by the notion of curiously exploring an ‘open question’, encouraging a positive view regarding the issue’s inherent uncertainties.
 
 
 ## 'Open Doors': Access and Inequality
@@ -30,6 +30,12 @@ Education, particularly higher education, has historically been seen as ‘close
        url="https://s3hub-16a9288f4971fa631f9d7a562ffdc0b7ad664dd52e0b96944ef1c952b.s3.amazonaws.com/yale-university-g292ac7b4a_1280.jpg">
 
 However, online OER repositories and MOOCs are only ‘open’ to those with the technology required to access the internet, and remain ‘closed’ to those without. In today’s postdigital world, inequality of technology use is, however, no longer a divide between the ‘haves’ and ‘have-nots’. New inequalities of opportunity described by van Deursen and van Dijk (2019)[^4] are dependent on the devices, software and connections used to access the internet, with an economic dimension to the number and diversity of devices available. Hogkinson-Williams and Trotter (2018)[^5] highlight the global inequality of this materiality: OER adoption relies on “access to stable electricity provision, functional computer hardware and affordable broadband connectivity” (p.210)[^5], levels of which vary both between and within countries. Additionally, Singh, Sharma, et al. (2021)[^6] point out that “effective online participation will also depend on access to a physical space to use the technology” (p.136)[^6], including a usable private, quiet study space, and this can vary independently of wealth.  Online ‘virtual’ learning spaces such as MOOCs are in fact “embedded in users’ physical surroundings” (Ibid., p.135)[^6] and therefore students cannot be said to have an equal online experience even if their material access opportunity is the same.
+
+<param ve-image 
+       label="Are MOOCs really open to all?"
+       attribution="Screenshot from coursera.org"
+       fit="scale"
+       url="https://s3hub-16a9288f4971fa631f9d7a562ffdc0b7ad664dd52e0b96944ef1c952b.s3.amazonaws.com/Coursera+Vision.png">
 
 Openness in digital education causes another closure in shutting out those lacking the digital literacy required to find and use OER effectively. Drawing on Bourdieu’s (1986)[^7] concept of mutually reinforcing capitals, Halford and Savage (2010)[^8] describe how the cultural capital of technical skills “might allow the accumulation of other capacities” (p.945)[^8], such as political or labour market advantage. It is not just having or acquiring these skills that conveys an advantage, it is also having “access to contexts in which these [skills] can be used effectively that is important” (Ibid.)[^8]. The physical and technical ability to access and complete a MOOC, for example, may not be advantageous if the credential gained is unable to be used locally, or not held in as high a regard culturally as other qualifications.
 
