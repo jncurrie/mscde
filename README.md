@@ -16,8 +16,13 @@
 
 # What is 'openness'?
 
-When discussing how openness has changed digital education, we must first consider: what is ‘openness’? The term’s multiplicity of meanings often require defining ‘open’ in terms of what it is _not_: not closed, not hidden, not protected, while the open education movement originally focused on the ‘virtue’ of ‘opening up’ higher education to all, leaning on the orientational metaphor “good is up” (Lakoff, 2003, p.16)[^ref1]. However, recent applications of openness to digital education practices fall short of utopian ideals and have led to unintended consequences.
+When discussing how openness has changed digital education, we must first consider: what is ‘openness’? The term’s multiplicity of meanings often require defining ‘open’ in terms of what it is _not_: not closed, not hidden, not protected, while the open education movement originally focused on the ‘virtue’ of ‘opening up’ higher education to all, leaning on the orientational metaphor “good is up” (Lakoff, 2003, p.16)[^1]. However, recent applications of openness to digital education practices fall short of utopian ideals and have led to unintended consequences.
 
+<param ve-image 
+       label="Screenshot of Tweet by David Wiley, Founder of opencontent.org" 
+       description="Screenshot of Tweet by David Wiley, Founder of opencontent.org"
+       url=https://s3hub-16a9288f4971fa631f9d7a562ffdc0b7ad664dd52e0b96944ef1c952b.s3.amazonaws.com/Wiley+Tweet.png">
+                                                                                                                    
 In this essay, I use four ‘openness’ analogies to help illuminate the changes and challenges it has brought to digital education, with a particular focus on Massive Online Open Courses (MOOCs). In the first section, using the imagery of ‘open doors’, I investigate the promise of increased access to education and how it has in fact led to other closures. In the second section, I use the analogy of an ‘open kitchen’ restaurant to consider how certain facets of teaching and learning are privileged by MOOCs and others are concealed. In the third section, the concept of the ‘open seas’ is employed to explore both the possibilities and vulnerabilities of educational technologies. In a fourth and final section, I suggest that the complexities of openness in digital education may best be represented by the notion of curiously exploring an ‘open question’, encouraging a positive view regarding the issue’s inherent uncertainties.
 
 
@@ -34,7 +39,7 @@ In this essay, I use four ‘openness’ analogies to help illuminate the change
 
 
 
-# What is 'openness' in digital education?
+
 
 This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
 <param ve-image 
@@ -47,11 +52,7 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 _Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, 
 dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 
 20th century after the earring worn by the girl portrayed there.[^1]
-<param ve-image 
-       label="Girl with a Pearl Earring" 
-       description="painting by Johannes Vermeer" 
-       license="public domain" 
-       url="https://s3hub-16a9288f4971fa631f9d7a562ffdc0b7ad664dd52e0b96944ef1c952b.s3.us-east-1.amazonaws.com/Screenshot%202022-03-09%20at%2012.12.10.png">
+
 
 ## Map
 
