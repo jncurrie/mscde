@@ -79,10 +79,10 @@ Educational policy entertains a certain ‘frontierism’ in how technologies co
 
 <param ve-image 
        label="Like the open seas, open education can contain both possibilities and dangers."
-       attribution="Jan Paul Yap via flickr.com"
+       attribution="Analogicus via pixabay.com"
        license="public domain"
        fit="cover"
-       url="https://s3hub-16a9288f4971fa631f9d7a562ffdc0b7ad664dd52e0b96944ef1c952b.s3.amazonaws.com/Open+seas.jpg">
+       url="https://s3hub-16a9288f4971fa631f9d7a562ffdc0b7ad664dd52e0b96944ef1c952b.s3.amazonaws.com/sailboat-g4350ab99b_1920.jpg">
 
 A near-horizon possibility lies in the current trend of MOOC platforms supplementing their ‘no-cost’ model with ‘low-cost’ branded micro-credentials (Weko, Kato et al., 2020, p.11-12)[^23]. Bourdieu’s notion of symbolic capital (1986)[^7] helps illustrate that not all credentials carry the same value: if a student pays for a MOOC with a view to increasing their cultural capital, perhaps in order to gain economic capital via a better paying job, then a MOOC ‘certificate of completion’ will be worthless to them unless employers can recognise it, trust its quality, and rank its equivalence against traditional qualifications. By partnering with ‘legitimate’ institutions, platforms are beginning to offer these assurances of capital, and countries such as New Zealand are starting to recognise “quality-assured MOOCs or OER” as credit-bearing credentials (Hodgkinson-Williams and Trotter, 2018, p.211)[^5]. Furthermore, there is potential synergy with new blockchain technology to create “user-controlled digital credentials” that can be easily and internationally verified (Smolenski, 2021, p.209)[^24]. 
 
