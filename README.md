@@ -3,16 +3,8 @@
 <param ve-config 
        title="What has openness done to change digital education?"
        author="Jacqueline Currie"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
-       layout="horizontal">
-
-<!-- Entities discussed throughout the essay are typically defined before the essay text and
-     are thus available in all text.  Entity identifiers (QIDs) can be found in either
-     Wikipedia or Wikidata (https://www.wikidata.org)> -->
-<param ve-entity eid="Q185372"> <!-- Girl with a Pearl Earring painting -->
-<param ve-entity eid="Q41264"> <!-- Johannes Vermeer -->
-<param ve-entity eid="Q221092"> <!-- Mauritshuis -->
-<param ve-entity eid="Q36600"> <!-- The Hague -->
+       banner="https://iiif.juncture-digital.org/banner/?              url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
+       layout="vertical">
 
 ## What is 'openness'?
 
@@ -31,6 +23,10 @@ In this essay, I use four ‘openness’ analogies to help illuminate the change
 ## 'Open Doors': Access and Inequality
 
 Education, particularly higher education, has historically been seen as ‘closed’ and elitist, with the barriers of academic, financial, and geographic requirements preventing entry to many students. There is a long-established narrative of technology being able to ‘open doors’ and widen participation by “addressing and reducing social inequalities” (Facer and Selwyn 2021)[^2]. Open and distance universities first helped reduce these obstacles by offering non-competitive admissions and freedom in students’ physical and temporal locations, and digital technologies have been integrated into this ability to ‘learn from anywhere’. The open education movement is also now closely associated with the free, online provision and sharing of copyright-free open educational resources (OERs) and practises (OEPs), which may be single resources, such as videos or lesson plans, right up to full curricula and courses. Currently, the most mainstream OERs are MOOCs provided by technology companies such as Coursera, edX, Udacity and FutureLearn. With their stated goal of mass participation in education, MOOCs, while positioning themselves as ‘new’, are still focused on ‘opening doors’, by “removing economic and geographical barriers” (Farrow, 2017, p.134)[^3] and offering courses for which “there are no requirements in terms of prior qualiﬁcation” (p.132)[^3].
+
+<param ve-graphic
+       title="Screenshot of Article 26 from the UN Declaration of Human Rights" 
+       url="https://s3hub-16a9288f4971fa631f9d7a562ffdc0b7ad664dd52e0b96944ef1c952b.s3.amazonaws.com/UN+Article+26.png">
 
 However, online OER repositories and MOOCs are only ‘open’ to those with the technology required to access the internet, and remain ‘closed’ to those without. In today’s postdigital world, inequality of technology use is, however, no longer a divide between the ‘haves’ and ‘have-nots’. New inequalities of opportunity described by van Deursen and van Dijk (2019)[^4] are dependent on the devices, software and connections used to access the internet, with an economic dimension to the number and diversity of devices available. Hogkinson-Williams and Trotter (2018)[^5] highlight the global inequality of this materiality: OER adoption relies on “access to stable electricity provision, functional computer hardware and affordable broadband connectivity” (p.210)[^5], levels of which vary both between and within countries. Additionally, Singh, Sharma, et al. (2021)[^6] point out that “effective online participation will also depend on access to a physical space to use the technology” (p.136)[^6], including a usable private, quiet study space, and this can vary independently of wealth.  Online ‘virtual’ learning spaces such as MOOCs are in fact “embedded in users’ physical surroundings” (Ibid., p.135)[^6] and therefore students cannot be said to have an equal online experience even if their material access opportunity is the same.
 
