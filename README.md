@@ -70,38 +70,11 @@ Ross and Collier (2016) use the term "not-yetness" (p.19)[^27] to describe a sta
 This essay offered a perspective on how openness has changed digital education, particularly the development of MOOCS, by considering four different interpretations of ‘open’. This approach certainly has limitations, including a focus on MOOCs over other forms of OER, and cultural biases in the analogies used. However, I hope that the explorations still provide a useful illumination of the tension between ideals and realities. The idea of ‘open doors’ was used to illustrate MOOC providers’ attempts to widen participation in education, but which create yet more closures. The perceived transparency of an ‘open kitchen’ restaurant was depicted to show how certain pedagogies are privileged by MOOCs, while other aspects of educational work remain concealed. The nature of the ‘open seas’ was used to illuminate both the possibilities of MOOCs, such as micro-credentials, along with vulnerabilities arising from their use of big data. Finally, the concept of an ‘open question’ was used to highlight the benefits of embracing complexity and uncertainty, rather than relying on ‘techsolutionism’. We can be open-minded and curious, as well as cautious, about the future possibilities of openness and digital education.
 
 
+## Note
 
+This visual essay was created using [Juncture by JSTOR Labs] (https://juncture-digital.org/)
 
-This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
-<param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
-
-# Basic usage
-
-## Image
-
-_Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, 
-dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 
-20th century after the earring worn by the girl portrayed there.[^1]
-
-
-## Map
-
-The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
-literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
-<param ve-map center="Q36600" zoom="11" prefer-geojson>
-
-## Multiple viewers
-
-Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
-Others are selectable using icons displayed in the top right margin of the paragraph.
-<param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
-<param ve-map center="Q36600" zoom="11">
-
-# References
-
-This visual essay was created using Juncture by JISC
+## References
 
 [^1]: Lakoff, G., Johnson, Mark. (2003). _Metaphors we live by_. University of Chicago Press.
 [^2]: Facer, K., & Selwyn, N. (2021). _Digital technology and the futures of education -- towards 'non-stupid' optimism_. UNESCO. [https://unesdoc.unesco.org/ark:/48223/pf0000377071](https://unesdoc.unesco.org/ark:/48223/pf0000377071)
