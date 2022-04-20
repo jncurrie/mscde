@@ -18,7 +18,7 @@
 
 When discussing how openness has changed digital education, we must first consider: what is ‘openness’? The term’s multiplicity of meanings often require defining ‘open’ in terms of what it is _not_: not closed, not hidden, not protected, while the open education movement originally focused on the ‘virtue’ of ‘opening up’ higher education to all, leaning on the orientational metaphor “good is up” (Lakoff, 2003, p.16)[^1]. However, recent applications of openness to digital education practices fall short of utopian ideals and have led to unintended consequences.
 
-<param ve-image 
+<param ve-graphic
        label="Screenshot of Tweet by David Wiley, Founder of opencontent.org" 
        description="Screenshot of Tweet by David Wiley, Founder of opencontent.org"
        url="https://s3hub-16a9288f4971fa631f9d7a562ffdc0b7ad664dd52e0b96944ef1c952b.s3.amazonaws.com/Wiley+Tweet.png">
