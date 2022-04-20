@@ -90,14 +90,14 @@ On the other hand, the MOOC platforms’ drives for efficiency are only possible
 
 ## 'Open Questions': Uncertainty and Curiosity
 
+Critics have highlighted the inherent ‘certainty’ in essentialist views of both openness and digital education. Farrow (2017) mentions proponents of a “‘pure (authentic) openness movement” (p.136)[^3] and Facer and Selwyn (2021) caution against the “allure of the ‘technical fix’” (pp. 8-9)[^2]. MOOCs are emblematic of the focus on absolutes and short-term thinking processes that has, for decades, repeatedly positioned education as a ‘problem’ that can be ‘solved’ with openness, technology, or both. Instead, by rejecting the need for certainty and approaching these topics as an ‘open question’, one with no single fixed solution, we can better embrace the ambiguities and “messiness” (Collier and Ross, 2017, p.11)[^24] of education.
+
 <param ve-image 
        label="Open questions have no single fixed solution; neither does openness."
        attribution="Peggy_Marco via flickr.com"
        license="public domain"
        fit="cover"
        url="https://s3hub-16a9288f4971fa631f9d7a562ffdc0b7ad664dd52e0b96944ef1c952b.s3.amazonaws.com/question-mark-g803fb6af8_1920.jpg">
-
-Critics have highlighted the inherent ‘certainty’ in essentialist views of both openness and digital education. Farrow (2017) mentions proponents of a “‘pure (authentic) openness movement” (p.136)[^3] and Facer and Selwyn (2021) caution against the “allure of the ‘technical fix’” (pp. 8-9)[^2]. MOOCs are emblematic of the focus on absolutes and short-term thinking processes that has, for decades, repeatedly positioned education as a ‘problem’ that can be ‘solved’ with openness, technology, or both. Instead, by rejecting the need for certainty and approaching these topics as an ‘open question’, one with no single fixed solution, we can better embrace the ambiguities and “messiness” (Collier and Ross, 2017, p.11)[^24] of education.
 
 Ross and Collier (2016) use the term "not-yetness" (p.19)[^27] to describe a state of working amidst the perpetual promises of emerging technologies and practises without either naivety or cynicism. Education is a “highly situated, contextual, human and unpredictable endeavour” (Facer and Selwyn, 2021, p.17)[^2]  and its challenges are both reflective of, and intertwined with, complex societal issues. A reconsideration of early connectivist-style ‘cMOOC’s, and a posthumanistic rethinking of how we assess effective learning, might alleviate some of the pedagogic issues discussed in previous sections. The adoption of the “transformative responses” suggested by Hodgkinson-Williams and Trotter (2018, p.219)[^5] would better address global inequalities in education. However, any new practises must “acknowledge and work with complexity” (Ross and Collier, 2016, p.19)[^27]  in order to create realistic and sustainable improvements.
 
