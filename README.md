@@ -18,6 +18,13 @@ When discussing how openness has changed digital education, we must first consid
        
 In this essay, I use four 'open' analogies to help illuminate the changes and challenges openness has brought to digital education, with a particular focus on Massive Online Open Courses (MOOCs). In the first section, using the imagery of ‘open doors’, I investigate the promise of increased access to education and how it has in fact led to other closures. In the second section, I use the analogy of an ‘open kitchen’ restaurant to consider how certain facets of teaching and learning are privileged by MOOCs and others are concealed. In the third section, the concept of the ‘open seas’ is employed to explore both the possibilities and vulnerabilities of educational technologies. In a fourth and final section, I suggest that the complexities of openness in digital education may best be represented by the notion of curiously exploring an ‘open question’, encouraging a positive view regarding the issue’s inherent uncertainties.
 
+<param ve-image 
+       label="Four analogies for 'openness': Open Doors, Open Kitchens, Open Seas, Open Questions"
+       attribution="User 12019 via pixabay.com, Alpha via flickr.com, Analogicus via pixabay.com, Peggy_Marco via flickr.com"
+       license="public domain"
+       fit="scale"
+       url="https://s3hub-16a9288f4971fa631f9d7a562ffdc0b7ad664dd52e0b96944ef1c952b.s3.amazonaws.com/Opens.png">
+
 
 ## 'Open Doors': Access and Inequality
 
@@ -26,6 +33,7 @@ Education, particularly higher education, has historically been seen as ‘close
 <param ve-image 
        label="The open education movement originally conceived 'openness' as 'opening the doors' to traditional higher education"
        attribution="User 12019 via pixabay.com"
+       license="public domain"
        fit="cover"
        url="https://s3hub-16a9288f4971fa631f9d7a562ffdc0b7ad664dd52e0b96944ef1c952b.s3.amazonaws.com/yale-university-g292ac7b4a_1280.jpg">
 
