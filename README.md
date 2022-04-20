@@ -3,7 +3,7 @@
 <param ve-config 
        title="What has openness done to change digital education?"
        author="Jacqueline Currie"
-       banner="https://iiif.juncture-digital.org/banner/?              url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
+       banner="https://s3hub-16a9288f4971fa631f9d7a562ffdc0b7ad664dd52e0b96944ef1c952b.s3.amazonaws.com/UN+Article+26.png" 
        layout="vertical">
 
 ## Introduction
@@ -18,9 +18,6 @@ When discussing how openness has changed digital education, we must first consid
        
 In this essay, I use four ‘openness’ analogies to help illuminate the changes and challenges it has brought to digital education, with a particular focus on Massive Online Open Courses (MOOCs). In the first section, using the imagery of ‘open doors’, I investigate the promise of increased access to education and how it has in fact led to other closures. In the second section, I use the analogy of an ‘open kitchen’ restaurant to consider how certain facets of teaching and learning are privileged by MOOCs and others are concealed. In the third section, the concept of the ‘open seas’ is employed to explore both the possibilities and vulnerabilities of educational technologies. In a fourth and final section, I suggest that the complexities of openness in digital education may best be represented by the notion of curiously exploring an ‘open question’, encouraging a positive view regarding the issue’s inherent uncertainties.
 
-<param ve-graphic
-       title="Article 26 from the UN Declaration of Human Rights, an influence on the open education movement (screenshot via un.org)" 
-       url="https://s3hub-16a9288f4971fa631f9d7a562ffdc0b7ad664dd52e0b96944ef1c952b.s3.amazonaws.com/UN+Article+26.png">
 
 ## 'Open Doors': Access and Inequality
 
