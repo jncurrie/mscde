@@ -1,5 +1,3 @@
-# What has openness done to change digital education? 
-
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
@@ -18,7 +16,7 @@
 
 # What is 'openness'?
 
-When discussing how openness has changed digital education, we must first consider: what is ‘openness’? The term’s multiplicity of meanings often require defining ‘open’ in terms of what it is _not_: not closed, not hidden, not protected, while the open education movement originally focused on the ‘virtue’ of ‘opening up’ higher education to all, leaning on the orientational metaphor “good is up” (Lakoff, 2003, p. 16)[^ref1]. However, recent applications of openness to digital education practices fall short of utopian ideals and have led to unintended consequences.
+When discussing how openness has changed digital education, we must first consider: what is ‘openness’? The term’s multiplicity of meanings often require defining ‘open’ in terms of what it is _not_: not closed, not hidden, not protected, while the open education movement originally focused on the ‘virtue’ of ‘opening up’ higher education to all, leaning on the orientational metaphor “good is up” (Lakoff, 2003, p.16)[^ref1]. However, recent applications of openness to digital education practices fall short of utopian ideals and have led to unintended consequences.
 
 In this essay, I use four ‘openness’ analogies to help illuminate the changes and challenges it has brought to digital education, with a particular focus on Massive Online Open Courses (MOOCs). In the first section, using the imagery of ‘open doors’, I investigate the promise of increased access to education and how it has in fact led to other closures. In the second section, I use the analogy of an ‘open kitchen’ restaurant to consider how certain facets of teaching and learning are privileged by MOOCs and others are concealed. In the third section, the concept of the ‘open seas’ is employed to explore both the possibilities and vulnerabilities of educational technologies. In a fourth and final section, I suggest that the complexities of openness in digital education may best be represented by the notion of curiously exploring an ‘open question’, encouraging a positive view regarding the issue’s inherent uncertainties.
 
