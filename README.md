@@ -10,12 +10,13 @@
 
 When discussing how openness has changed digital education, we must first consider: what is ‘openness’? The term’s multiplicity of meanings often require defining ‘open’ in terms of what it is _not_: not closed, not hidden, not protected. The open education movement originally focused on the 'not closed' interpretation and the virtues of ‘opening up’ higher education to all, leaning on the orientational metaphor “good is up” (Lakoff, 2003, p.16)[^1]. However, some applications of openness to digital education fall short of these utopian ideals and have led to unintended consequences. 
 
-<param ve-graphic
-       title="Tweet by David Wiley, Founder of opencontent.org (screenshot via twitter.com)" 
-       fit="scale"
+<param ve-image 
+       label="Tweet by David Wiley, Founder of opencontent.org"
+       attribution="screenshot via twitter.com"
+       fit="cover"
        url="https://s3hub-16a9288f4971fa631f9d7a562ffdc0b7ad664dd52e0b96944ef1c952b.s3.amazonaws.com/Wiley+Tweet.png">
        
-In this essay, I use four ‘openness’ analogies to help illuminate the changes and challenges it has brought to digital education, with a particular focus on Massive Online Open Courses (MOOCs). In the [first section](#'open-doors'-access-and-inequality), using the imagery of ‘open doors’, I investigate the promise of increased access to education and how it has in fact led to other closures. In the second section, I use the analogy of an ‘open kitchen’ restaurant to consider how certain facets of teaching and learning are privileged by MOOCs and others are concealed. In the third section, the concept of the ‘open seas’ is employed to explore both the possibilities and vulnerabilities of educational technologies. In a fourth and final section, I suggest that the complexities of openness in digital education may best be represented by the notion of curiously exploring an ‘open question’, encouraging a positive view regarding the issue’s inherent uncertainties.
+In this essay, I use four ‘openness’ analogies to help illuminate the changes and challenges it has brought to digital education, with a particular focus on Massive Online Open Courses (MOOCs). In the first section, using the imagery of ‘open doors’, I investigate the promise of increased access to education and how it has in fact led to other closures. In the second section, I use the analogy of an ‘open kitchen’ restaurant to consider how certain facets of teaching and learning are privileged by MOOCs and others are concealed. In the third section, the concept of the ‘open seas’ is employed to explore both the possibilities and vulnerabilities of educational technologies. In a fourth and final section, I suggest that the complexities of openness in digital education may best be represented by the notion of curiously exploring an ‘open question’, encouraging a positive view regarding the issue’s inherent uncertainties.
 
 <param ve-graphic
        title="Article 26 from the UN Declaration of Human Rights, an influence on the open education movement (screenshot via un.org)" 
@@ -26,7 +27,7 @@ In this essay, I use four ‘openness’ analogies to help illuminate the change
 Education, particularly higher education, has historically been seen as ‘closed’ and elitist, with the barriers of academic, financial, and geographic requirements preventing entry to many students. There is a long-established narrative of technology being able to ‘open doors’ and widen participation by “addressing and reducing social inequalities” (Facer and Selwyn 2021)[^2]. Open and distance universities first helped reduce these obstacles by offering non-competitive admissions and freedom in students’ physical and temporal locations, and digital technologies have been integrated into this ability to ‘learn from anywhere’. The open education movement is also now closely associated with the free, online provision and sharing of copyright-free open educational resources (OERs) and practises (OEPs), which may be single resources, such as videos or lesson plans, right up to full curricula and courses. Currently, the most mainstream OERs are MOOCs provided by technology companies such as Coursera, edX, Udacity and FutureLearn. With their stated goal of mass participation in education, MOOCs, while positioning themselves as ‘new’, are still focused on ‘opening doors’, by “removing economic and geographical barriers” (Farrow, 2017, p.134)[^3] and offering courses for which “there are no requirements in terms of prior qualiﬁcation” (p.132)[^3].
 
 <param ve-image 
-       label="The open education movement originally concieved 'open' as 'opening the doors' to traditional higher education"
+       label="The open education movement originally conceived 'openness' as 'opening the doors' to traditional higher education"
        attribution="User 12019 via pixabay.com"
        fit="cover"
        url="https://s3hub-16a9288f4971fa631f9d7a562ffdc0b7ad664dd52e0b96944ef1c952b.s3.amazonaws.com/yale-university-g292ac7b4a_1280.jpg">
