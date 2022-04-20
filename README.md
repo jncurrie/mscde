@@ -97,7 +97,7 @@ Critics have highlighted the inherent ‘certainty’ in essentialist views of b
        attribution="Peggy_Marco via flickr.com"
        license="public domain"
        fit="cover"
-       url="https://s3hub-16a9288f4971fa631f9d7a562ffdc0b7ad664dd52e0b96944ef1c952b.s3.amazonaws.com/question-mark-g803fb6af8_1920.jpg">
+       url="https://s3hub-16a9288f4971fa631f9d7a562ffdc0b7ad664dd52e0b96944ef1c952b.s3.amazonaws.com/question-mark-gf5cd61e42_1920.jpg">
 
 Ross and Collier (2016) use the term "not-yetness" (p.19)[^27] to describe a state of working amidst the perpetual promises of emerging technologies and practises without either naivety or cynicism. Education is a “highly situated, contextual, human and unpredictable endeavour” (Facer and Selwyn, 2021, p.17)[^2]  and its challenges are both reflective of, and intertwined with, complex societal issues. A reconsideration of early connectivist-style ‘cMOOC’s, and a posthumanistic rethinking of how we assess effective learning, might alleviate some of the pedagogic issues discussed in previous sections. The adoption of the “transformative responses” suggested by Hodgkinson-Williams and Trotter (2018, p.219)[^5] would better address global inequalities in education. However, any new practises must “acknowledge and work with complexity” (Ross and Collier, 2016, p.19)[^27]  in order to create realistic and sustainable improvements.
 
