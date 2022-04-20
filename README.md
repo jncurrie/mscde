@@ -45,7 +45,9 @@ In an open kitchen restaurant, the customer may only passively observe the chef 
 
 Despite the external rationale for open kitchens being offering customers transparency of the culinary process, much of the work of restaurant staff remains hidden, not least ‘low-status’ jobs such as dishwashing (Dana, 2019)[^13]. The customer does not see the chef creating menus, selecting and buying ingredients or preparing and storing food. Likewise, the up-front work required to produce OERs remains hidden, eliding the value of teacher labour (Winn, 2015)[^15] and MOOCs are often taught by “precariously-positioned teaching associates rather than well-paid academics” (Bayne & Jandric, 2017, p.21)[^16]. Furthermore, the tacit assumptions inherent in a restaurant setting, such as the type of cuisine on offer and required eating utensils, mirror the ‘hidden curriculum’ of OERs: it is not just the content being shared but also the values and customs of the creators. OERs often assume a “one-size-fits-all approach” (Collier and Ross 2017, p.11)[^17] which can exacerbate inequalities, due to the majority of OERs being created in the Global North and embodying Western ideals of education (Hodgkinson-Williams and Trotter, 2018, p.207)[^5].
 
-<param ve-iframe src="https://oerworldmap.org/resource/?view=map&size=20&sort=dateCreated">
+<param ve-graphic
+       title="Map of Global OER respositories, showing the majority are created in the Global North, via [oerworldmap.org](https://oerworldmap.org/)" 
+       url="https://s3hub-16a9288f4971fa631f9d7a562ffdc0b7ad664dd52e0b96944ef1c952b.s3.amazonaws.com/OER+Repository+map.png">
 
 The internal rationale for open kitchens is often one of efficiency (Dana, 2019)[^13], by the elimination of ‘wasted’ space which can be turned over to more customer seating; however, the drive for increased capacity may overlook more transient functions of that space. Likewise the benefit of MOOCs to providers in not requiring expensive campus buildings is tempered by the loss of valuable social interactions which take place in “intermediate liminal spaces” (Nordquist and Laing, 2015, p.340)[^18] such as corridors, staircases or campus squares which are not easily replicated online. A further efficiency gain lies in the reduction of necessary wait staff, as the chef can serve the customer directly. This elimination of a mediating presence mirrors how teaching at scale has efficiency as perhaps its highest goal: the ‘direct-to-consumer’ model allows a single MOOC to have enrollments in the tens of thousands, and multiple instances of the same course can run concurrently. The ‘engineering out’ of teacher contact time on MOOCs, both by prioritising conservative pedagogies that don’t require it and by replacing some teacher functions with artificial intelligence, is a result of the neoliberalism that views the ‘cost’ of the teacher as a problem to be solved (Ball & Grimaldi, 2021, p.14)[^19].
 
@@ -98,6 +100,8 @@ Others are selectable using icons displayed in the top right margin of the parag
 <param ve-map center="Q36600" zoom="11">
 
 # References
+
+This visual essay was created using Juncture by JISC
 
 [^1]: Lakoff, G., Johnson, Mark. (2003). _Metaphors we live by_. University of Chicago Press.
 [^2]: Facer, K., & Selwyn, N. (2021). _Digital technology and the futures of education -- towards 'non-stupid' optimism_. UNESCO. [https://unesdoc.unesco.org/ark:/48223/pf0000377071](https://unesdoc.unesco.org/ark:/48223/pf0000377071)
