@@ -14,7 +14,7 @@
 <param ve-entity eid="Q221092"> <!-- Mauritshuis -->
 <param ve-entity eid="Q36600"> <!-- The Hague -->
 
-# What is 'openness'?
+## What is 'openness'?
 
 When discussing how openness has changed digital education, we must first consider: what is ‘openness’? The term’s multiplicity of meanings often require defining ‘open’ in terms of what it is _not_: not closed, not hidden, not protected. The open education movement originally focused on the 'not closed' interpretation, and the virtues of ‘opening up’ higher education to all by leaning on the orientational metaphor “good is up” (Lakoff, 2003, p.16)[^1]. However, some applications of openness to digital education fall short of these utopian ideals and have led to unintended consequences. 
 
@@ -25,7 +25,8 @@ In this essay, I use four ‘openness’ analogies to help illuminate the change
        url="https://s3hub-16a9288f4971fa631f9d7a562ffdc0b7ad664dd52e0b96944ef1c952b.s3.amazonaws.com/Wiley+Tweet.png">
 
 
-# 'Open Doors': Access and Inequality
+
+## 'Open Doors': Access and Inequality
 
 Education, particularly higher education, has historically been seen as ‘closed’ and elitist, with the barriers of academic, financial, and geographic requirements preventing entry to many students. There is a long-established narrative of technology being able to ‘open doors’ and widen participation by “addressing and reducing social inequalities” (Facer and Selwyn 2021). Open and distance universities first helped reduce these obstacles by offering non-competitive admissions and freedom in students’ physical and temporal locations, and digital technologies have been integrated into this ability to ‘learn from anywhere’. The open education movement is also now closely associated with the free, online provision and sharing of copyright-free open educational resources (OERs) and practises (OEPs), which may be single resources, such as videos or lesson plans, right up to full curricula and courses. Currently, the most mainstream OERs are MOOCs provided by technology companies such as Coursera, edX, Udacity and FutureLearn. With their stated goal of mass participation in education, MOOCs, while positioning themselves as ‘new’, are still focused on ‘opening doors’, by “removing economic and geographical barriers” (Farrow, 2017, p.134) and offering courses for which “there are no requirements in terms of prior qualiﬁcation” (p.132).
 
