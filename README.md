@@ -118,7 +118,7 @@ This essay offered a perspective on how openness has changed digital education, 
        attribution="opensourceway via flickr.com"
        license="public domain"
        fit="cover"
-       url="https://s3hub-16a9288f4971fa631f9d7a562ffdc0b7ad664dd52e0b96944ef1c952b.s3.amazonaws.com/question-mark-gf5cd61e42_1920.jpg">
+       url="https://s3hub-16a9288f4971fa631f9d7a562ffdc0b7ad664dd52e0b96944ef1c952b.s3.amazonaws.com/Openness.png">
 
 
 ## Note
