@@ -48,7 +48,7 @@ However, online OER repositories and MOOCs are only ‘open’ to those with the
 Openness in digital education causes another closure in shutting out those lacking the digital literacy required to find and use OER effectively. Drawing on Bourdieu’s (1986)[^7] concept of mutually reinforcing capitals, Halford and Savage (2010)[^8] describe how the cultural capital of technical skills “might allow the accumulation of other capacities” (p.945)[^8], such as political or labour market advantage. It is not just having or acquiring these skills that conveys an advantage, it is also having “access to contexts in which these [skills] can be used effectively that is important” (Ibid.)[^8]. The physical and technical ability to access and complete a MOOC, for example, may not be advantageous if the credential gained is unable to be used locally, or not held in as high a regard culturally as other qualifications.
 
 <param ve-image 
-       label="Is having the digital skills to earn a MOOC Certificate useful if you cannot access contexts where it is recognised?"
+       label="Is having the digital literacy to complete a MOOC useful if you cannot access contexts where it is recognised?"
        attribution="Screenshot from futurelearn.com"
        fit="scale"
        url="https://s3hub-16a9288f4971fa631f9d7a562ffdc0b7ad664dd52e0b96944ef1c952b.s3.amazonaws.com/Cert.png">
@@ -56,7 +56,7 @@ Openness in digital education causes another closure in shutting out those lacki
 Furthermore, openness has often ignored or entrenched old inequalities, for example, the “proliferation of hegemonic English-language OER” (Hodgkinson-Williams and Trotter, 2018, p.207)[^5] which limits their accessibility. OER use is unevenly distributed and benefits accumulate to those already privileged: they are “most often used by those already receiving a high-quality education” (McMillan Cottom, 2015, 27:08)[^9], and the majority of MOOC students live in developed countries and already have university degrees (Christensen et al, 2013, p.6)[^10]. Far from the oft-touted idealism of widening participation and reducing barriers to entry, ‘opening the doors’ of education using digital technologies has in fact caused more doors to close.
 
 <param ve-image 
-       label="Despite global reach, English is the language of instruction for the vast majority of MOOCs. (Example shown: currently, 2780/3603 (77%) of edX courses are taught in English)."
+       label="Despite global reach, English is the language of instruction for the vast majority of MOOCs. Currently, 2780/3603 (77%) of edX courses are taught in English."
        attribution="Screenshot from edx.org"
        fit="scale"
        url="https://s3hub-16a9288f4971fa631f9d7a562ffdc0b7ad664dd52e0b96944ef1c952b.s3.amazonaws.com/Language.png">
@@ -93,7 +93,7 @@ In an open kitchen restaurant, the customer may only passively observe the chef 
 Despite the external rationale for open kitchens being offering customers transparency of the culinary process, much of the work of restaurant staff remains hidden, not least ‘low-status’ jobs such as dishwashing (Dana, 2019)[^14]. The customer does not see the chef creating menus, selecting and buying ingredients or preparing and storing food. Likewise, the up-front work required to produce OERs remains hidden, eliding the value of teacher labour (Winn, 2015)[^16] and MOOCs are often taught by “precariously-positioned teaching associates rather than well-paid academics” (Bayne & Jandric, 2017, p.21)[^17]. Furthermore, the tacit assumptions inherent in a restaurant setting, such as the type of cuisine on offer and required eating utensils, mirror the ‘hidden curriculum’ of OERs: it is not just the content being shared but also the values and customs of the creators. OERs often assume a “one-size-fits-all approach” (Ross and Collier, 2017, p.11)[^18] which can exacerbate inequalities, due to the majority of OERs being created in the Global North and embodying Western ideals of education (Hodgkinson-Williams and Trotter, 2018, p.207)[^5].
 
 <param ve-image 
-       label="Map of Global OER content respositories, showing the majority is created in the Global North."
+       label="Map of Global OER content, showing the majority is created in the Global North."
        attribution="Screenshot from oerworldmap.org"
        fit="scale"
        url="https://s3hub-16a9288f4971fa631f9d7a562ffdc0b7ad664dd52e0b96944ef1c952b.s3.amazonaws.com/oermap.png">
@@ -146,7 +146,7 @@ Critics have highlighted the inherent ‘certainty’ in essentialist views of b
        fit="cover"
        url="https://s3hub-16a9288f4971fa631f9d7a562ffdc0b7ad664dd52e0b96944ef1c952b.s3.amazonaws.com/question-mark-gf5cd61e42_1920.jpg">
 
-Ross and Collier (2016) use the term "not-yetness" (p.19)[^27] to describe a state of working amidst the perpetual promises of emerging technologies and practises without either naivety or cynicism. Education is a “highly situated, contextual, human and unpredictable endeavour” (Facer and Selwyn, 2021, p.17)[^2]  and its challenges are both reflective of, and intertwined with, complex societal issues. A reconsideration of early connectivist-style ‘cMOOC’s, and a rethinking of how we assess effective learning, might alleviate some of the pedagogic issues discussed in previous sections. The adoption of the “transformative responses” suggested by Hodgkinson-Williams and Trotter (2018, p.219)[^5] would better address global inequalities in education. However, any new practises must “acknowledge and work with complexity” (Ross and Collier, 2016, p.19)[^26]  in order to create realistic and sustainable improvements.
+Ross and Collier (2016) use the term "not-yetness" (p.19)[^27] to describe a state of working amidst the perpetual promises of emerging technologies and practises without either naivety or cynicism. Education is a “highly situated, contextual, human and unpredictable endeavour” (Facer and Selwyn, 2021, p.17)[^2]  and its challenges are both reflective of, and intertwined with, complex societal issues. A reconsideration of early connectivist-style ‘cMOOC’s, and a rethinking of how we assess effective learning, might alleviate some of the pedagogic issues discussed in previous sections. The adoption of the “transformative responses” suggested by Hodgkinson-Williams and Trotter (2018, p.219)[^5] would better address global inequalities in education. Any new practises must “acknowledge and work with complexity” (Ross and Collier, 2016, p.19)[^26] in order to create realistic and sustainable improvements.
 
 <param ve-image 
        label="Open questions have no single fixed solution; neither does openness."
@@ -169,7 +169,7 @@ This essay offered a perspective on how openness has changed digital education, 
 
 ## Note
 
-This visual essay was created using [Juncture by JSTOR Labs](https://juncture-digital.org/). Word count excluding reference list: 2655.
+This visual essay was created using [Juncture by JSTOR Labs](https://juncture-digital.org/). Word count excluding reference list: 2653.
 
 ## References
 
