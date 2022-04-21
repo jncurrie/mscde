@@ -93,7 +93,7 @@ In an open kitchen restaurant, the customer may only passively observe the chef 
 Despite the external rationale for open kitchens being offering customers transparency of the culinary process, much of the work of restaurant staff remains hidden, not least ‘low-status’ jobs such as dishwashing (Dana, 2019)[^14]. The customer does not see the chef creating menus, selecting and buying ingredients or preparing and storing food. Likewise, the up-front work required to produce OERs remains hidden, eliding the value of teacher labour (Winn, 2015)[^16] and MOOCs are often taught by “precariously-positioned teaching associates rather than well-paid academics” (Bayne & Jandric, 2017, p.21)[^17]. Furthermore, the tacit assumptions inherent in a restaurant setting, such as the type of cuisine on offer and required eating utensils, mirror the ‘hidden curriculum’ of OERs: it is not just the content being shared but also the values and customs of the creators. OERs often assume a “one-size-fits-all approach” (Ross and Collier, 2017, p.11)[^18] which can exacerbate inequalities, due to the majority of OERs being created in the Global North and embodying Western ideals of education (Hodgkinson-Williams and Trotter, 2018, p.207)[^5].
 
 <param ve-image 
-       label="Map of Global OER respositories, showing the majority are created in the Global North."
+       label="Map of Global OER content respositories, showing the majority is created in the Global North."
        attribution="Screenshot from oerworldmap.org"
        fit="scale"
        url="https://s3hub-16a9288f4971fa631f9d7a562ffdc0b7ad664dd52e0b96944ef1c952b.s3.amazonaws.com/oermap.png">
