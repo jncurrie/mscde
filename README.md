@@ -23,7 +23,7 @@ In this essay, I use four 'open' analogies to help illuminate the changes and ch
        attribution="User 12019 via pixabay.com, Alpha via flickr.com, Analogicus via pixabay.com, Peggy_Marco via flickr.com"
        license="public domain"
        fit="scale"
-       url="https://s3hub-16a9288f4971fa631f9d7a562ffdc0b7ad664dd52e0b96944ef1c952b.s3.amazonaws.com/Opens4.png">
+       url="https://s3hub-16a9288f4971fa631f9d7a562ffdc0b7ad664dd52e0b96944ef1c952b.s3.amazonaws.com/4opens.png">
 
 
 ## 'Open Doors': Access and Inequality
