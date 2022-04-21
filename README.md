@@ -48,7 +48,7 @@ However, online OER repositories and MOOCs are only ‘open’ to those with the
 Openness in digital education causes another closure in shutting out those lacking the digital literacy required to find and use OER effectively. Drawing on Bourdieu’s (1986)[^7] concept of mutually reinforcing capitals, Halford and Savage (2010)[^8] describe how the cultural capital of technical skills “might allow the accumulation of other capacities” (p.945)[^8], such as political or labour market advantage. It is not just having or acquiring these skills that conveys an advantage, it is also having “access to contexts in which these [skills] can be used effectively that is important” (Ibid.)[^8]. The physical and technical ability to access and complete a MOOC, for example, may not be advantageous if the credential gained is unable to be used locally, or not held in as high a regard culturally as other qualifications.
 
 <param ve-image 
-       label="Is having digital skills to earn a MOOC Certificate useful if you cannot access contexts where it is recognised?"
+       label="Is having the digital skills to earn a MOOC Certificate useful if you cannot access contexts where it is recognised?"
        attribution="Screenshot from futurelearn.com"
        fit="scale"
        url="https://s3hub-16a9288f4971fa631f9d7a562ffdc0b7ad664dd52e0b96944ef1c952b.s3.amazonaws.com/Cert.png">
@@ -67,7 +67,7 @@ Furthermore, openness has often ignored or entrenched old inequalities, for exam
 Although openness may have opened some doors, the use of digital technologies can also “reconfigure rather than simply overcome” closures (Edwards, 2015, p.253)[^11]. The openness movement tends to assume that barriers to educational access “are the only issues preventing the instinctive and effortless uptake of self-directed learning” (Bayne et al., 2015, p.248)[^12]. This humanistic view of students as “rational […] and highly motivated individuals” (Ibid.)[^12] has led to the consumerisation and ‘learnification’ of education (Biesta, 2010)[^13], prioritising what, where, when and how students wish to learn over the guidance and knowledge of professional teachers. MOOCs reinforce this model, viewing students as consumers and recasting teachers mainly as facilitators of a student’s educational journey.
 
 <param ve-image 
-       label="MOOCs recinforce an individualised, learner-centred view of education."
+       label="MOOCs promote an individualised, learner-centred view of education."
        attribution="Screenshot from coursera.org"
        fit="scale"
        url="https://s3hub-16a9288f4971fa631f9d7a562ffdc0b7ad664dd52e0b96944ef1c952b.s3.amazonaws.com/indiv.png">
