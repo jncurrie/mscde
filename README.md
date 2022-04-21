@@ -23,7 +23,7 @@ In this essay, I use four 'open' analogies to help illuminate the changes and ch
        attribution="User 12019 via pixabay.com, Alpha via flickr.com, Analogicus via pixabay.com, Peggy_Marco via flickr.com"
        license="public domain"
        fit="scale"
-       url="https://s3hub-16a9288f4971fa631f9d7a562ffdc0b7ad664dd52e0b96944ef1c952b.s3.amazonaws.com/4+opens.png">
+       url="https://s3hub-16a9288f4971fa631f9d7a562ffdc0b7ad664dd52e0b96944ef1c952b.s3.amazonaws.com/open4.png">
 
 
 ## 'Open Doors': Access and Inequality
@@ -70,7 +70,7 @@ Although openness may have opened some doors, the use of digital technologies ca
        label="MOOCs promote an individualised, learner-centred view of education."
        attribution="Screenshot from coursera.org"
        fit="scale"
-       url="https://s3hub-16a9288f4971fa631f9d7a562ffdc0b7ad664dd52e0b96944ef1c952b.s3.amazonaws.com/indiv.png">
+       url="https://s3hub-16a9288f4971fa631f9d7a562ffdc0b7ad664dd52e0b96944ef1c952b.s3.amazonaws.com/student-indiv.png">
 
 Learnification “reconﬁgures or maintains particular notions of learning, teaching, and human being” (Bayne et al., 2015, p.248)[^12]. This shift can be explored using the analogy of an ‘open kitchen’ restaurant, where chefs prepare and cook food in front of diners instead of in a separate room. The customer can choose from a menu, expect good service, but the entire concept and layout of the restaurant has been reconfigured to foreground specific aspects of the meal creation process (Dana, 2019)[^14]. Similarly, MOOC providers promote student choice and encourage reviews of their ‘service’ but, due to the need to teach at scale, allow only certain pedagogies to be showcased. For example, open kitchens change chef behaviour by privileging the highly visual and ‘theatrical’ aspects of cooking over more mundane activities, and MOOCs also tend to privilege ‘edutainment’ and the performance aspects of teaching, depending heavily on highly-produced short-form video lectures to ‘engage’ students. The analogy is not perfect, since, for instance, teachers may often fulfil both roles of ‘chef’ (creating content) and ‘wait staff’ (delivering content), but an examination of other similarities helps reveal some further aspects of openness in digital education and MOOC culture.
 
@@ -104,7 +104,7 @@ The internal rationale for open kitchens is often one of efficiency (Dana, 2019)
        label="MOOCs use AI to replace some teacher functions (such as assessment) in a quest for efficiency."
        attribution="Screenshot from coursera.org"
        fit="scale"
-       url="https://s3hub-16a9288f4971fa631f9d7a562ffdc0b7ad664dd52e0b96944ef1c952b.s3.amazonaws.com/question.png">
+       url="https://s3hub-16a9288f4971fa631f9d7a562ffdc0b7ad664dd52e0b96944ef1c952b.s3.amazonaws.com/assessment.png">
 
 ## 'Open Seas': Possibility and Vulnerability
 
