@@ -47,7 +47,19 @@ However, online OER repositories and MOOCs are only ‘open’ to those with the
 
 Openness in digital education causes another closure in shutting out those lacking the digital literacy required to find and use OER effectively. Drawing on Bourdieu’s (1986)[^7] concept of mutually reinforcing capitals, Halford and Savage (2010)[^8] describe how the cultural capital of technical skills “might allow the accumulation of other capacities” (p.945)[^8], such as political or labour market advantage. It is not just having or acquiring these skills that conveys an advantage, it is also having “access to contexts in which these [skills] can be used effectively that is important” (Ibid.)[^8]. The physical and technical ability to access and complete a MOOC, for example, may not be advantageous if the credential gained is unable to be used locally, or not held in as high a regard culturally as other qualifications.
 
+<param ve-image 
+       label="Is having digital skills to earn a MOOC Certificate useful if you cannot access contexts where it is recognised?"
+       attribution="Screenshot from futurelearn.com"
+       fit="scale"
+       url="https://s3hub-16a9288f4971fa631f9d7a562ffdc0b7ad664dd52e0b96944ef1c952b.s3.amazonaws.com/Cert.png">
+
 Furthermore, openness has often ignored or entrenched old inequalities, for example, the “proliferation of hegemonic English-language OER” (Hodgkinson-Williams and Trotter, 2018, p.207)[^5] which limits their accessibility. OER use is unevenly distributed and benefits accumulate to those already privileged: they are “most often used by those already receiving a high-quality education” (McMillan Cottom, 2015, 27:08)[^9], and the majority of MOOC students live in developed countries and already have university degrees (Christensen et al, 2013, p.6)[^10]. Far from the oft-touted idealism of widening participation and reducing barriers to entry, ‘opening the doors’ of education using digital technologies has in fact caused more doors to close.
+
+<param ve-image 
+       label="Is having digital skills to earn a MOOC Certificate useful if you cannot access contexts where it is recognised?"
+       attribution="Screenshot from futurelearn.com"
+       fit="scale"
+       url="https://s3hub-16a9288f4971fa631f9d7a562ffdc0b7ad664dd52e0b96944ef1c952b.s3.amazonaws.com/Cert.png">
 
 
 ## 'Open Kitchens': Transparency and Concealment
@@ -83,7 +95,7 @@ The internal rationale for open kitchens is often one of efficiency (Dana, 2019)
 
 ## 'Open Seas': Possibility and Vulnerability
 
-Educational policy entertains a certain ‘frontierism’ in how technologies could change education for the better (Vincent-Lancrin, 2021, pp. 19-41)[^21], apparent in the cyclical promotion of digital technologies as the ‘next big thing’. MOOCs themselves have already travelled through the “hype, hope and disappointment” cycle described by Selwyn (2011, p.62)[^22]. Adopting imagery of ships on the ‘open seas’, initial forays in open, mass-scale education via early university-led iterations focusing on collaboration and connectivism (cMOOCs), led to the widely-heralded launches of platform MOOCs (xMOOCs) that would “disrupt” traditional education (Weller, 2015, p.4)[^23], followed by disillusionment when their limited capacities were realised. After more than a decade, MOOCs now appear to be on set bearings as providers of mainly professional training alongside partnerships with traditional universities - ironic, considering openness’ initial stance against such ‘elite’ institutions. The ‘open seas’ of digital education promise ‘limitless’ possibilities to users, but also render them vulnerable to the larger forces of platform capitalism and neoliberalism, and the risks of ‘exposure’ surrounding data privacy and ethics.
+Educational policy entertains a certain ‘frontierism’ in how technologies could change education for the better (Vincent-Lancrin, 2021, pp. 19-41)[^21], apparent in the cyclical promotion of digital technologies as the ‘next big thing’. MOOCs themselves have already travelled through the “hype, hope and disappointment” cycle described by Selwyn (2011, p.62)[^22]. Adopting imagery of ships on the ‘open seas’, initial forays in open, mass-scale education via early university-led iterations focusing on collaboration and connectivism (cMOOCs), led to the widely-heralded launches of platform MOOCs (xMOOCs) that claimed to 'disrupt' traditional education, followed by disillusionment when their limited capacities were realised (Weller, 2015, p.4)[^23]. After more than a decade, MOOCs now appear to be on set bearings as providers of professional training alongside partnerships with traditional universities - ironic, considering openness’ initial stance against such ‘elite’ institutions. The ‘open seas’ of digital education promise ‘limitless’ possibilities to users, but also render them vulnerable to the larger forces of platform capitalism and neoliberalism, and the risks of ‘exposure’ surrounding data privacy and ethics.
 
 <param ve-image 
        label="Like the open seas, open education can contain both possibilities and dangers."
