@@ -56,10 +56,10 @@ Openness in digital education causes another closure in shutting out those lacki
 Furthermore, openness has often ignored or entrenched old inequalities, for example, the “proliferation of hegemonic English-language OER” (Hodgkinson-Williams and Trotter, 2018, p.207)[^5] which limits their accessibility. OER use is unevenly distributed and benefits accumulate to those already privileged: they are “most often used by those already receiving a high-quality education” (McMillan Cottom, 2015, 27:08)[^9], and the majority of MOOC students live in developed countries and already have university degrees (Christensen et al, 2013, p.6)[^10]. Far from the oft-touted idealism of widening participation and reducing barriers to entry, ‘opening the doors’ of education using digital technologies has in fact caused more doors to close.
 
 <param ve-image 
-       label="Is having digital skills to earn a MOOC Certificate useful if you cannot access contexts where it is recognised?"
-       attribution="Screenshot from futurelearn.com"
+       label="Despite global reach, English is the language of instruction for the vast majority of MOOCs. (Example shown: currently, 2780/3603 (77%) of edX courses are taught in English)."
+       attribution="Screenshot from edx.org"
        fit="scale"
-       url="https://s3hub-16a9288f4971fa631f9d7a562ffdc0b7ad664dd52e0b96944ef1c952b.s3.amazonaws.com/Cert.png">
+       url="https://s3hub-16a9288f4971fa631f9d7a562ffdc0b7ad664dd52e0b96944ef1c952b.s3.amazonaws.com/Language.png">
 
 
 ## 'Open Kitchens': Transparency and Concealment
