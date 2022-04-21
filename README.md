@@ -67,10 +67,10 @@ Furthermore, openness has often ignored or entrenched old inequalities, for exam
 Although openness may have opened some doors, the use of digital technologies can also “reconfigure rather than simply overcome” closures (Edwards, 2015, p.253)[^11]. The openness movement tends to assume that barriers to educational access “are the only issues preventing the instinctive and effortless uptake of self-directed learning” (Bayne et al., 2015, p.248)[^12]. This humanistic view of students as “rational […] and highly motivated individuals” (Ibid.)[^12] has led to the consumerisation and ‘learnification’ of education (Biesta, 2010)[^13], prioritising what, where, when and how students wish to learn over the guidance and knowledge of professional teachers. MOOCs reinforce this model, viewing students as consumers and recasting teachers mainly as facilitators of a student’s educational journey.
 
 <param ve-image 
-       label="???"
+       label="MOOCs recinforce an individualised, learner-centred view of education."
        attribution="Screenshot from coursera.org"
        fit="scale"
-       url="https://s3hub-16a9288f4971fa631f9d7a562ffdc0b7ad664dd52e0b96944ef1c952b.s3.amazonaws.com/student.png">
+       url="https://s3hub-16a9288f4971fa631f9d7a562ffdc0b7ad664dd52e0b96944ef1c952b.s3.amazonaws.com/indiv.png">
 
 Learnification “reconﬁgures or maintains particular notions of learning, teaching, and human being” (Bayne et al., 2015, p.248)[^12]. This shift can be explored using the analogy of an ‘open kitchen’ restaurant, where chefs prepare and cook food in front of diners instead of in a separate room. The customer can choose from a menu, expect good service, but the entire concept and layout of the restaurant has been reconfigured to foreground specific aspects of the meal creation process (Dana, 2019)[^14]. Similarly, MOOC providers promote student choice and encourage reviews of their ‘service’ but, due to the need to teach at scale, allow only certain pedagogies to be showcased. For example, open kitchens change chef behaviour by privileging the highly visual and ‘theatrical’ aspects of cooking over more mundane activities, and MOOCs also tend to privilege ‘edutainment’ and the performance aspects of teaching, depending heavily on highly-produced short-form video lectures to ‘engage’ students. The analogy is not perfect, since, for instance, teachers may often fulfil both roles of ‘chef’ (creating content) and ‘wait staff’ (delivering content), but an examination of other similarities helps reveal some further aspects of openness in digital education and MOOC culture.
 
@@ -85,18 +85,26 @@ Learnification “reconﬁgures or maintains particular notions of learning, tea
 In an open kitchen restaurant, the customer may only passively observe the chef cooking and cannot question their process, and likewise MOOCs generally do not allow for interaction between teachers and students, with the teacher positioned as an ‘unchallengeable’ authority figure. Also, in the same way that placing focus on the chef’s actions may lead customers to interact less with their fellow diners, an instructivist style of teaching discourages MOOC from learning with or from their fellow participants. It also leads to the de-emphasis or elimination of other teacher capabilities, including facilitating discussions, helping students “turn content into knowledge” by applying information to their individual contexts (Cottom, 2015, 20:27)[^9], recommending other courses and pastoral care. This individual-centred approach has led to concerns regarding the “implicit de-professionalisation of teaching” along with “problematic forms of student isolation” (Bayne et al, 2015, p.248)[^12] which contribute to the low completion rates of MOOCs (Hone and El Said, 2016)[^15].
 
 <param ve-image 
-       label="MOOCs depend heavily on audiovisual content including video lecture presentations."
+       label="MOOCs depend heavily on video lectures, prioritising content delivery over other facets of teaching."
        attribution="Screenshot from coursera.org"
        fit="scale"
        url="https://s3hub-16a9288f4971fa631f9d7a562ffdc0b7ad664dd52e0b96944ef1c952b.s3.amazonaws.com/Coursera+Lecture.png">
 
 Despite the external rationale for open kitchens being offering customers transparency of the culinary process, much of the work of restaurant staff remains hidden, not least ‘low-status’ jobs such as dishwashing (Dana, 2019)[^14]. The customer does not see the chef creating menus, selecting and buying ingredients or preparing and storing food. Likewise, the up-front work required to produce OERs remains hidden, eliding the value of teacher labour (Winn, 2015)[^16] and MOOCs are often taught by “precariously-positioned teaching associates rather than well-paid academics” (Bayne & Jandric, 2017, p.21)[^17]. Furthermore, the tacit assumptions inherent in a restaurant setting, such as the type of cuisine on offer and required eating utensils, mirror the ‘hidden curriculum’ of OERs: it is not just the content being shared but also the values and customs of the creators. OERs often assume a “one-size-fits-all approach” (Ross and Collier, 2017, p.11)[^18] which can exacerbate inequalities, due to the majority of OERs being created in the Global North and embodying Western ideals of education (Hodgkinson-Williams and Trotter, 2018, p.207)[^5].
 
-<param ve-graphic
-       title="Map of Global OER respositories, showing the majority are created in the Global North, via (oerworldmap.org)[https://oerworldmap.org/]" 
+<param ve-image 
+       label="Map of Global OER respositories, showing the majority are created in the Global North."
+       attribution="Screenshot from oerworldmap.org"
+       fit="scale"
        url="https://s3hub-16a9288f4971fa631f9d7a562ffdc0b7ad664dd52e0b96944ef1c952b.s3.amazonaws.com/OER+Repository+map.png">
 
 The internal rationale for open kitchens is often one of efficiency (Dana, 2019)[^14], by the elimination of ‘wasted’ space which can be turned over to more customer seating; however, the drive for increased capacity may overlook more transient functions of that space. Likewise the benefit of MOOCs to providers in not requiring expensive campus buildings is tempered by the loss of valuable social interactions which take place in “intermediate liminal spaces” (Nordquist and Laing, 2015, p.340)[^19] such as corridors, staircases or campus squares which are not easily replicated online. A further efficiency gain lies in the reduction of necessary wait staff, as the chef can serve the customer directly. This elimination of a mediating presence mirrors how teaching at scale has efficiency as perhaps its highest goal: the ‘direct-to-consumer’ model allows a single MOOC to have enrollments in the tens of thousands, and multiple instances of the same course can run concurrently. The ‘engineering out’ of teacher contact time on MOOCs, both by prioritising conservative pedagogies that don’t require it and by replacing some teacher functions with artificial intelligence, is a result of the neoliberalism that views the ‘cost’ of the teacher as a problem to be solved (Ball & Grimaldi, 2021, p.14)[^20].
+
+<param ve-image 
+       label="MOOCs use AI to replace some teacher functions (such as assessment) in a quest for efficiency."
+       attribution="Screenshot from coursera.org"
+       fit="scale"
+       url="https://s3hub-16a9288f4971fa631f9d7a562ffdc0b7ad664dd52e0b96944ef1c952b.s3.amazonaws.com/question.png">
 
 ## 'Open Seas': Possibility and Vulnerability
 
@@ -109,7 +117,13 @@ Educational policy entertains a certain ‘frontierism’ in how technologies co
        fit="cover"
        url="https://s3hub-16a9288f4971fa631f9d7a562ffdc0b7ad664dd52e0b96944ef1c952b.s3.amazonaws.com/sailboat-g4350ab99b_1920.jpg">
 
-A near-horizon possibility lies in the current trend of MOOC platforms supplementing their ‘no-cost’ model with ‘low-cost’ branded micro-credentials (Weko, Kato et al., 2020, p.11-12)[^24]. Bourdieu’s notion of symbolic capital (1986)[^7] helps illustrate that not all credentials carry the same value: if a student pays for a MOOC with a view to increasing their cultural capital, perhaps in order to gain economic capital via a better paying job, then a MOOC ‘certificate of completion’ will be worthless to them unless employers can recognise it, trust its quality, and rank its equivalence against traditional qualifications. By partnering with ‘legitimate’ institutions, platforms are beginning to offer these assurances of capital, and countries such as New Zealand are starting to recognise “quality-assured MOOCs or OER” as credit-bearing credentials (Hodgkinson-Williams and Trotter, 2018, p.211)[^5]. Furthermore, there is potential synergy with new blockchain technology to create “user-controlled digital credentials” that can be easily and internationally verified (Smolenski, 2021, p.209)[^25]. 
+A near-horizon possibility lies in the current trend of MOOC platforms supplementing their ‘no-cost’ model with ‘low-cost’ branded micro-credentials (Weko, Kato et al., 2020, p.11-12)[^24]. Bourdieu’s notion of symbolic capital (1986)[^7] helps illustrate that not all credentials carry the same value: if a student pays for a MOOC with a view to increasing their cultural capital, perhaps in order to gain economic capital via a better paying job, then a MOOC ‘badge’ will be worthless to them unless employers can recognise it, trust its quality, and rank its equivalence against traditional qualifications. By partnering with ‘legitimate’ institutions, platforms are beginning to offer these assurances of capital, and countries such as New Zealand are starting to recognise “quality-assured MOOCs or OER” as credit-bearing credentials (Hodgkinson-Williams and Trotter, 2018, p.211)[^5]. Furthermore, there is potential synergy with new blockchain technology to create “user-controlled digital credentials” that can be easily and internationally verified (Smolenski, 2021, p.209)[^25]. 
+
+<param ve-image 
+       label="University-branded MOOC micro-credentials, are starting to gain currency."
+       attribution=""
+       fit="scale"
+       url="">
 
 On the other hand, the MOOC platforms’ drives for efficiency are only possible because research on the ‘big data’ generated by participants “has granted great power to large-scale computational analyses of learner behaviours” (Collier and Ross, 2016, p.26)[^26]. This power imbalance leaves users open to harm; Enyon (2013)[^27] urges particular caution around the challenges of ethics, what can and cannot be done with data, and inequality (pp. 238-239). Data privacy laws offer limited protections, but the affordances of big data include its use in surveillance (Vincent-Lancrin, 2021, p.32)[^21]. MOOC use of learning analytics risks denying student personhood and autonomy via the inherent belief that what can be measured, and only that, is “valuable in terms of understanding learning” (Ross and Collier, 2017, p.25)[^18]. The current relative lack of regulations surrounding AI, which is “seamlessly embedded in virtually every aspect of the MOOC ecosystem“ (Fauvel and Yu, 2018, p. 24)[^28], creates a risk that undetected algorithm biases become ‘baked in’, entrenching inequalities. The environmental damage from technology manufacturing processes and disposal, along with the “vast energy requirements” required by data processing and storage are unsustainable (Facer and Selwyn, 2021, p. 15)[^2]. The ‘open seas’ are fraught with danger.
 
@@ -140,7 +154,7 @@ This essay offered a perspective on how openness has changed digital education, 
 
 ## Note
 
-This visual essay was created using [Juncture by JSTOR Labs](https://juncture-digital.org/)
+This visual essay was created using [Juncture by JSTOR Labs](https://juncture-digital.org/). Word count excluding reference list: 2663.
 
 ## References
 
