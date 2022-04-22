@@ -76,7 +76,7 @@ Learnification “reconﬁgures or maintains particular notions of learning, tea
 
 
 <param ve-image 
-       label="Open kitchens reconfigure restaurant space to foreground certain aspects of meal preparation. Likewise, open courses such as MOOCs reconfigure aspects of teaching and learning."
+       label="Open kitchens reconfigure restaurant space to foreground certain aspects of meal preparation. Likewise, MOOCs reconfigure aspects of teaching and learning."
        attribution="Alpha via flickr.com"
        license="public domain"
        fit="cover"
@@ -93,7 +93,7 @@ In an open kitchen restaurant, the customer may only passively observe the chef 
 Despite the external rationale for open kitchens being offering customers transparency of the culinary process, much of the work of restaurant staff remains hidden, not least ‘low-status’ jobs such as dishwashing (Dana, 2019, para.16)[^14]. The customer does not see the chef creating menus, selecting and buying ingredients or preparing and storing food. Likewise, the up-front work required to produce OERs remains hidden, eliding the value of teacher labour (Winn, 2015, p.25)[^16] and MOOCs are often taught by “precariously-positioned teaching associates rather than well-paid academics” (Bayne & Jandric, 2017, p.21)[^17]. Furthermore, the tacit assumptions inherent in a restaurant setting, such as the type of cuisine on offer and required eating utensils, mirror the ‘hidden curriculum’ of OERs: it is not just the content being shared but also the values and customs of the creators. OERs often assume a “one-size-fits-all approach” (Ross and Collier, 2017, p.11)[^18] which can exacerbate inequalities, due to the majority of OERs being created in the Global North and embodying Western ideals of education (Hodgkinson-Williams and Trotter, 2018, p.207)[^5].
 
 <param ve-image 
-       label="Map of Global OER content, showing the majority is created in the Global North."
+       label="Map of global OER content, showing the majority is created in the Global North."
        attribution="Screenshot from oerworldmap.org"
        fit="scale"
        url="https://s3hub-16a9288f4971fa631f9d7a562ffdc0b7ad664dd52e0b96944ef1c952b.s3.amazonaws.com/oermap.png">
@@ -120,7 +120,7 @@ Educational policy entertains a certain ‘frontierism’ in how technologies co
 A near-horizon possibility lies in the current trend of MOOC platforms supplementing their ‘no-cost’ model with ‘low-cost’ branded micro-credentials (Weko, Kato et al., 2020, p.11-12)[^24]. Bourdieu’s notion of symbolic capital (1986)[^7] helps illustrate that not all credentials carry the same value: if a student pays for a MOOC with a view to increasing their cultural capital, perhaps in order to gain economic capital via a better paying job, then a MOOC ‘badge’ will be worthless to them unless employers can recognise it, trust its quality, and rank its equivalence against traditional qualifications. By partnering with ‘legitimate’ institutions, platforms are beginning to offer these assurances of capital, and countries such as New Zealand are starting to recognise “quality-assured MOOCs or OER” as credit-bearing credentials (Hodgkinson-Williams and Trotter, 2018, p.211)[^5]. Furthermore, there is potential synergy with new blockchain technology to create “user-controlled digital credentials” that can be easily and internationally verified (Smolenski, 2021, p.209)[^25]. 
 
 <param ve-image 
-       label="For a fee, MOOC leaners can gain University-branded micro-credentials, which are starting to gain currency globally."
+       label="For a fee, MOOC learners can gain University-branded micro-credentials, which are starting to gain currency globally."
        attribution="Screenshot from futurelearn.com"
        fit="scale"
        url="https://s3hub-16a9288f4971fa631f9d7a562ffdc0b7ad664dd52e0b96944ef1c952b.s3.amazonaws.com/cred.png">
@@ -169,7 +169,7 @@ This essay offered a perspective on how openness has changed digital education, 
 
 ## Note
 
-This visual essay was created using [Juncture by JSTOR Labs](https://juncture-digital.org/). Word count excluding reference list: 2653.
+This visual essay was created using [Juncture by JSTOR Labs](https://juncture-digital.org/). Word count excluding reference list: 2651.
 
 ## References
 
